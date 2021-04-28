@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'CoastTrain 2021',
-  tagline: 'Goal: help scientists label 10,000 images of coastal environments',
+  tagline: 'Goal: label 10,000 images for coastal science',
   url: 'https://dbuscombe-usgs.github.io',
   baseUrl: '/CoastTrain/',
   onBrokenLinks: 'throw',
@@ -21,7 +21,7 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'About',
+          label: 'Project Information',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -38,7 +38,7 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'About',
+              label: 'Project Information',
               to: '/docs/intro',
             },
           ],
@@ -79,7 +79,7 @@ module.exports = {
         },
 
       ],
-      copyright: `This website is written and maintained by Daniel Buscombe, Marda Science, LLC, contracted to the U.S. Geological Survey Pacific Coastal and Marine Science Center in Santa Cruz, CA, on behalf of the Coast Train team. Coast Train is funded by the U.S. Geological Survey Community for Data Integration, and is for the primary usage of U.S. Geological Survey scientists, researchers and affiliated colleagues working on coastal hazards, processes, and ecosystems research. Thanks to Copyright © ${new Date().getFullYear()} Marda Science, LLC. `,
+      copyright: `This website is written and maintained by Daniel Buscombe, Marda Science, LLC, contracted to the U.S. Geological Survey Pacific Coastal and Marine Science Center in Santa Cruz, CA, on behalf of the Coast Train team. Coast Train is funded by the U.S. Geological Survey Community for Data Integration, and is for the primary usage of U.S. Geological Survey scientists, researchers and affiliated colleagues working on coastal hazards, processes, and ecosystems research. Copyright © ${new Date().getFullYear()} Marda Science, LLC. `,
     },
   },
   presets: [

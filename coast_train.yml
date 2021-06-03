@@ -1,5 +1,5 @@
 #conda env create --file coast_train.yml
-name: coasttrain
+name: coasttrain2
 channels:
   - conda-forge
   - defaults
@@ -14,6 +14,7 @@ dependencies:
  - geemap
  - ipython
  - joblib
+ - pip
  - pip:
    - area
    - reverse-geocode

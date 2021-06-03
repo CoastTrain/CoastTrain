@@ -40,8 +40,14 @@ from shapely.geometry import LineString, MultiPolygon, Polygon
 from shapely.ops import split
 
 # read in coast train master sites
-with open('coastTrain_sites.geojson') as f:
+# with open('coastTrain_sites.geojson') as f:
+#     json_data = json.load(f)
+#
+with open('sandiego.geojson') as f:
     json_data = json.load(f)
+
+
+
 features = json_data['features']
 
 
@@ -70,8 +76,11 @@ for g in geocodes:
     A1.append(g['admin1'])
     A2.append(g['admin2'])
 
-np.savetxt("site_locs.csv", np.vstack((LL,L)).T, delimiter=",")
-np.savetxt("site_names.csv", np.vstack((N,A1,A2)).T, delimiter=",", fmt='%s')
+# np.savetxt("site_locs.csv", np.vstack((LL,L)).T, delimiter=",")
+# np.savetxt("site_names.csv", np.vstack((N,A1,A2)).T, delimiter=",", fmt='%s')
+
+np.savetxt("sdsite_locs.csv", np.vstack((LL,L)).T, delimiter=",")
+np.savetxt("sdsite_names.csv", np.vstack((N,A1,A2)).T, delimiter=",", fmt='%s')
 
 
 
@@ -162,6 +171,11 @@ def func(feature, site, nx=4, ny=4):
         counter += 1
 
     # site += 1
+
+
+
+nx = ny = 4
+w = Parallel(n_jobs=-1, verbose=1)(delayed(func)(feature,site,nx,ny) for feature,site in zip(features, np.arange(len(features))))
 
 
 ## call the above in parallel

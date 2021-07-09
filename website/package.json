@@ -19,6 +19,7 @@
     "@mdx-js/react": "^1.6.21",
     "@react-leaflet/docusaurus-plugin": "^1.0.1",
     "clsx": "^1.1.1",
+    "docusaurus": "^1.14.7",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },

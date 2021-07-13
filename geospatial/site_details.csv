@@ -1,0 +1,237 @@
+city,Admin1,Admin2,longitude,latitude,nx,ny,supersite,chunks,region
+Carmel Valley Village,California,Monterey County,-121.623355865479,36.0938592817698,4,4,big_sur,16,1
+Cambria,California,San Luis Obispo County,-121.433996200562,35.8649586745121,4,4,big_sur,16,1
+Port Angeles,Washington,Clallam County,-123.566253662109,48.1439831572895,4,4,elwha,16,1
+Port Angeles,Washington,Clallam County,-123.520677566528,48.1339655773157,4,4,elwha,16,1
+Warrenton,Oregon,Clatsop County,-124.003509521484,46.2035928449024,4,4,columbia_river,16,1
+Seaside,Oregon,Clatsop County,-123.929763793945,46.0006735754618,4,4,columbia_river,16,1
+Half Moon Bay,California,San Mateo County,-122.40966796875,37.2843233152146,4,4,pescadero,16,1
+Half Moon Bay,California,San Mateo County,-122.414886474609,37.2573851056928,4,4,pescadero,16,1
+Bonny Doon,California,Santa Cruz County,-122.336059570313,37.1190441844497,4,4,pescadero,16,1
+Castroville,California,Monterey County,-121.792098999023,36.7932568391077,4,4,monterey,16,1
+Castroville,California,Monterey County,-121.799343109131,36.7709290976617,4,4,monterey,16,1
+Castroville,California,Monterey County,-121.805145263672,36.7465862111372,4,4,monterey,16,1
+Marina,California,Monterey County,-121.807376861572,36.7233920111891,4,4,monterey,16,1
+Marina,California,Monterey County,-121.809986114502,36.7025854040161,4,4,monterey,16,1
+Marina,California,Monterey County,-121.816200256348,36.6791017842019,4,4,monterey,16,1
+Marina,California,Monterey County,-121.825881958008,36.6534354625841,4,4,monterey,16,1
+Seaside,California,Monterey County,-121.841022491455,36.6317563585764,4,4,monterey,16,1
+Seaside,California,Monterey County,-121.856128692627,36.6148382415558,4,4,monterey,16,1
+Monterey,California,Monterey County,-121.888469696045,36.6005626173826,4,4,monterey,16,1
+Seaside,California,Monterey County,-121.871337890625,36.6035942539214,4,4,monterey,16,1
+Carmel-by-the-Sea,California,Monterey County,-121.92798614502,36.5366741480319,4,4,monterey,16,1
+Daly City,California,San Mateo County,-122.512939453125,37.7713115092658,4,4,ocean_beach,16,1
+Daly City,California,San Mateo County,-122.511463165283,37.759858243532,4,4,ocean_beach,16,1
+Daly City,California,San Mateo County,-122.509780883789,37.7491905238851,4,4,ocean_beach,16,1
+Daly City,California,San Mateo County,-122.508441925049,37.7381138506127,4,4,ocean_beach,16,1
+Broadmoor,California,San Mateo County,-122.504940032959,37.7135385968573,4,4,ocean_beach,16,1
+Broadmoor,California,San Mateo County,-122.506896972656,37.7263838975064,4,4,ocean_beach,16,1
+Warrenton,Oregon,Clatsop County,-123.980438232422,46.1679415611128,4,4,columbia_river,16,1
+Warrenton,Oregon,Clatsop County,-123.965057373047,46.1426380097171,4,4,columbia_river,16,1
+Gearhart,Oregon,Clatsop County,-123.935806274414,46.0558851942843,4,4,columbia_river,16,1
+Warrenton,Oregon,Clatsop County,-123.94596862793,46.0995151909674,4,4,columbia_river,16,1
+Warrenton,Oregon,Clatsop County,-123.956130981445,46.1284597260408,4,4,columbia_river,16,1
+Port Angeles,Washington,Clallam County,-123.555027008057,48.1496414670256,4,4,elwha,16,1
+Port Angeles,Washington,Clallam County,-123.543800354004,48.1470987873018,4,4,elwha,16,1
+Port Angeles,Washington,Clallam County,-123.534290313721,48.1429524399183,4,4,elwha,16,1
+Port Angeles,Washington,Clallam County,-123.52938079834,48.1384047801118,4,4,elwha,16,1
+Port Angeles,Washington,Clallam County,-123.506875991821,48.131370648308,4,4,elwha,16,1
+Port Angeles,Washington,Clallam County,-123.49266242981,48.1315997861655,4,4,elwha,16,1
+Isla Vista,California,Santa Barbara County,-119.884460449219,34.413140588693,4,4,santa_barbara,16,1
+Isla Vista,California,Santa Barbara County,-119.856651306152,34.4087789079834,4,4,santa_barbara,16,1
+Toro Canyon,California,Santa Barbara County,-119.576774597168,34.414670384859,4,4,santa_barbara,16,1
+Toro Canyon,California,Santa Barbara County,-119.554733276367,34.4073058542312,4,4,santa_barbara,16,1
+Carpinteria,California,Santa Barbara County,-119.532623291016,34.3954648259855,4,4,santa_barbara,16,1
+Carpinteria,California,Santa Barbara County,-119.512504577637,34.3873057325153,4,4,santa_barbara,16,1
+Carpinteria,California,Santa Barbara County,-119.453384399414,34.3639560490519,4,4,santa_barbara,16,1
+Carpinteria,California,Santa Barbara County,-119.436492919922,34.3537532984746,4,4,santa_barbara,16,1
+Ventura,California,Ventura County,-119.409851074219,34.3289190639068,4,4,santa_barbara,16,1
+Ventura,California,Ventura County,-119.365905761719,34.3014688381776,4,4,santa_barbara,16,1
+Ventura,California,Ventura County,-119.314544677734,34.2770763402999,4,4,santa_barbara,16,1
+Ventura,California,Ventura County,-119.27197265625,34.2447262358361,4,4,santa_barbara,16,1
+Oxnard Shores,California,Ventura County,-119.251647949219,34.1980564247179,4,4,santa_barbara,16,1
+Channel Islands Beach,California,Ventura County,-119.2236328125,34.155793050358,4,4,santa_barbara,16,1
+Port Hueneme,California,Ventura County,-119.102336883545,34.1017977295408,4,4,santa_barbara,16,1
+Port Hueneme,California,Ventura County,-119.079540252686,34.0938375308674,4,4,santa_barbara,16,1
+Laguna Vista,Texas,Cameron County,-97.3037109375,26.1080009406154,12,12,TX,144,2
+Rio Hondo,Texas,Cameron County,-97.3740234375,26.409509162814,12,12,TX,144,2
+Raymondville,Texas,Willacy County,-97.4410400390625,26.7072558889521,12,12,TX,144,2
+Sarita,Texas,Kenedy County,-97.4718017578125,27.0316164665293,12,12,TX,144,2
+Sarita,Texas,Kenedy County,-97.4476318359375,27.3619176362422,12,12,TX,144,2
+Fulton,Texas,Aransas County,-96.8466796875,28.1541985593832,12,12,TX,144,2
+Seadrift,Texas,Calhoun County,-96.5621337890625,28.2926645849273,12,12,TX,144,2
+Bridge City,Texas,Orange County,-93.7282104492187,29.8910995105907,12,12,LA,144,2
+Hackberry,Louisiana,Cameron Parish,-93.561767578125,29.8970619945757,12,12,LA,144,2
+Dulac,Louisiana,Terrebonne Parish,-90.9019775390625,29.307201920239,12,12,WMD,144,2
+Dulac,Louisiana,Terrebonne Parish,-90.6473693847656,29.3230089264113,12,12,WMD,144,2
+Dulac,Louisiana,Terrebonne Parish,-90.7635498046875,29.2552215730574,12,12,WMD,144,2
+Dulac,Louisiana,Terrebonne Parish,-90.7761840820313,29.4239970694492,12,12,WMD,144,2
+Chauvin,Louisiana,Terrebonne Parish,-90.6160583496094,29.4742365156114,12,12,WMD,144,2
+Port Sulphur,Louisiana,Plaquemines Parish,-89.3860015869141,29.2021065512459,12,12,WMD,144,2
+Port Sulphur,Louisiana,Plaquemines Parish,-89.3136291503906,29.2991876124503,12,12,WMD,144,2
+Port Sulphur,Louisiana,Plaquemines Parish,-89.2137908935547,29.2534364931295,12,12,WMD,144,2
+Port Sulphur,Louisiana,Plaquemines Parish,-89.2788848876953,29.1873920604212,12,12,WMD,144,2
+Port Sulphur,Louisiana,Plaquemines Parish,-89.1721801757813,29.4816789391512,12,12,WMD,144,2
+Port Sulphur,Louisiana,Plaquemines Parish,-89.1002197265625,29.5340251899797,4,4,WMD,16,2
+Biloxi,Mississippi,Harrison County,-88.8587951660156,29.9810905847774,4,4,WMD,16,2
+Biloxi,Mississippi,Harrison County,-88.8519287109375,29.8815901541077,12,12,WMD,144,2
+Biloxi,Mississippi,Harrison County,-88.8857116699219,29.7846290363413,4,4,,16,2
+Gulfport,Mississippi,Harrison County,-88.9302062988281,29.7064162595414,4,4,,16,2
+Pass Christian,Mississippi,Harrison County,-88.9878845214844,29.6527255877684,4,4,,16,2
+Port Sulphur,Louisiana,Plaquemines Parish,-89.0381469726563,29.586586127753,4,4,,16,2
+Biloxi,Mississippi,Harrison County,-88.9530029296875,30.2165876674986,4,4,,16,2
+Gulf Park Estates,Mississippi,Jackson County,-88.7008666992188,30.2225209915991,12,12,,144,2
+Pascagoula,Mississippi,Jackson County,-88.4907531738281,30.2073294008041,4,4,,16,2
+Bayou La Batre,Alabama,Mobile County,-88.3009643554687,30.2267952376807,4,4,,16,2
+Dauphin Island,Alabama,Mobile County,-88.1444091796875,30.2505232456289,4,4,,16,2
+Dauphin Island,Alabama,Mobile County,-87.954345703125,30.2296405080756,12,12,,144,2
+Gulf Shores,Alabama,Baldwin County,-87.7692260742188,30.2414995940373,12,12,,144,2
+Orange Beach,Alabama,Baldwin County,-87.633544921875,30.2690270384488,12,12,,144,2
+Crawfordville,Florida,Wakulla County,-84.3854370117188,29.9665377112028,12,12,,144,2
+Crawfordville,Florida,Wakulla County,-84.3524780273438,30.0705083245211,12,12,,144,2
+Crawfordville,Florida,Wakulla County,-84.2700805664063,30.0918996463112,12,12,,144,2
+Crawfordville,Florida,Wakulla County,-84.1673583984375,30.1014034227129,12,12,,144,2
+Woodville,Florida,Leon County,-84.0846862792969,30.1040190883422,12,12,,144,2
+Woodville,Florida,Leon County,-83.9981689453125,30.0902287463055,12,12,,144,2
+Longboat Key,Florida,Manatee County,-82.6835174560547,27.4322333367636,12,12,,144,2
+Holmes Beach,Florida,Manatee County,-82.7362518310547,27.5043683836834,12,12,,144,2
+Anna Maria,Florida,Manatee County,-82.7611083984375,27.5855878125584,12,12,,144,2
+Tierra Verde,Florida,Pinellas County,-82.7284240722656,27.6380280882348,12,12,,144,2
+Saint Pete Beach,Florida,Pinellas County,-82.7520446777344,27.7147749862153,8,8,,64,2
+Treasure Island,Florida,Pinellas County,-82.7782745361328,27.759140943641,4,4,,16,2
+Redington Beach,Florida,Pinellas County,-82.810546875,27.7998442237484,4,4,,16,2
+Indian Shores,Florida,Pinellas County,-82.8465270996094,27.843930775856,4,4,,16,2
+North Key Largo,Florida,Monroe County,-80.281494140625,25.3214297183978,4,4,,16,3
+Lakes by the Bay,Florida,Miami-Dade County,-80.1926422119141,25.4835654942761,4,4,,16,3
+North Key Largo,Florida,Monroe County,-80.2380981445313,25.4038259952189,4,4,,16,3
+Tequesta,Florida,Palm Beach County,-80.1003570556641,26.9641807270216,4,4,,16,3
+Hobe Sound,Florida,Martin County,-80.1120300292969,27.015943780443,4,4,,16,3
+Wabasso Beach,Florida,Indian River County,-80.4232177734375,27.7833212344508,4,4,,16,3
+Sebastian,Florida,Indian River County,-80.4420318603516,27.8246832629969,4,4,,16,3
+Micco,Florida,Brevard County,-80.4607772827148,27.8653011328793,4,4,,16,3
+Oak Hill,Florida,Volusia County,-80.8243560791016,28.9088843356898,4,4,,16,3
+Oak Hill,Florida,Volusia County,-80.7813720703125,28.8475570872079,4,4,,16,3
+Oak Hill,Florida,Volusia County,-80.7506103515625,28.7923310211451,4,4,,16,3
+Mims,Florida,Brevard County,-80.7140808105469,28.7423739583132,4,4,,16,3
+Merritt Island,Florida,Brevard County,-80.6745300292969,28.6890184758541,4,4,,16,3
+Merritt Island,Florida,Brevard County,-80.6349792480469,28.62864412232,4,4,,16,3
+Merritt Island,Florida,Brevard County,-80.597900390625,28.5901854896245,4,4,,16,3
+Isle of Palms,South Carolina,Charleston County,-79.7525024414063,32.8209587762022,4,4,,16,3
+Awendaw,South Carolina,Charleston County,-79.6547241210938,32.9007871231097,4,4,,16,3
+Awendaw,South Carolina,Charleston County,-79.5734252929688,32.9579394990799,4,4,,16,3
+Awendaw,South Carolina,Charleston County,-79.490478515625,33.0289154778398,8,8,,64,3
+Awendaw,South Carolina,Charleston County,-79.3957214355469,33.0613714953372,4,4,,16,3
+Georgetown,South Carolina,Georgetown County,-79.2833862304687,33.1352382186842,4,4,,16,3
+Harkers Island,North Carolina,Carteret County,-76.5366668701172,34.6113870994045,4,4,,16,3
+Harkers Island,North Carolina,Carteret County,-76.4774780273438,34.6820013243012,4,4,,16,3
+Harkers Island,North Carolina,Carteret County,-76.4215850830078,34.7445394849665,4,4,,16,3
+Harkers Island,North Carolina,Carteret County,-76.3743438720703,34.803536732143,4,4,,16,3
+Harkers Island,North Carolina,Carteret County,-76.3122711181641,34.8573100395164,4,4,,16,3
+Swanquarter,North Carolina,Hyde County,-76.0696105957031,35.0482085427538,4,4,,16,3
+Swanquarter,North Carolina,Hyde County,-76.119873046875,35.0080619039301,4,4,,16,3
+Swanquarter,North Carolina,Hyde County,-76.1684875488281,34.9687959155279,4,4,,16,3
+Harkers Island,North Carolina,Carteret County,-76.2198486328125,34.928611084651,4,4,,16,3
+Harkers Island,North Carolina,Carteret County,-76.2587127685547,34.8949401769714,4,4,,16,3
+Buxton,North Carolina,Dare County,-75.9714202880859,35.0976571522963,4,4,,16,3
+Buxton,North Carolina,Dare County,-75.9030303955078,35.1315863610158,4,4,,16,3
+Buxton,North Carolina,Dare County,-75.8313446044922,35.1632525590679,4,4,,16,3
+Buxton,North Carolina,Dare County,-75.6996459960938,35.2120719617984,4,4,,16,3
+Buxton,North Carolina,Dare County,-75.5867614746094,35.2365271272613,4,4,,16,3
+Buxton,North Carolina,Dare County,-75.513427734375,35.3078275996007,4,4,,16,3
+Buxton,North Carolina,Dare County,-75.4987335205078,35.3945241296645,4,4,,16,3
+Buxton,North Carolina,Dare County,-75.4841766357422,35.4748638267163,4,4,,16,3
+Buxton,North Carolina,Dare County,-75.4753875732422,35.5496481744336,4,4,,16,3
+Wanchese,North Carolina,Dare County,-75.4811553955078,35.6264860274979,4,4,,16,3
+Wanchese,North Carolina,Dare County,-75.5034027099609,35.6965561629677,4,4,,16,3
+Wanchese,North Carolina,Dare County,-75.5367736816406,35.7604364982403,4,4,,16,3
+Wanchese,North Carolina,Dare County,-75.5737152099609,35.8175858501802,4,4,,16,3
+Wanchese,North Carolina,Dare County,-75.5951385498047,35.8702393121704,4,4,,16,3
+Nags Head,North Carolina,Dare County,-75.6267242431641,35.9294217167975,4,4,,16,3
+Nags Head,North Carolina,Dare County,-75.6611938476563,35.9842233633795,4,4,,16,3
+Kitty Hawk,North Carolina,Dare County,-75.711181640625,36.0400989305991,4,4,,16,3
+Southern Shores,North Carolina,Dare County,-75.7352142333984,36.1054705426033,4,4,,16,3
+Southern Shores,North Carolina,Dare County,-75.7819061279297,36.2010492524041,4,4,,16,3
+Southern Shores,North Carolina,Dare County,-75.8143157958984,36.2917644051419,4,4,,16,3
+Currituck,North Carolina,Currituck County,-75.8295593261719,36.3633478654358,4,4,,16,3
+Currituck,North Carolina,Currituck County,-75.8575744628906,36.432764605477,4,4,,16,3
+Currituck,North Carolina,Currituck County,-75.8828430175781,36.5054329000016,4,4,,16,3
+Chincoteague,Virginia,Accomack County,-75.3850250244141,37.8618402225128,4,4,,16,3
+Chincoteague,Virginia,Accomack County,-75.3520660400391,37.9086609122101,8,8,,64,3
+Chincoteague,Virginia,Accomack County,-75.2976837158203,37.9686599000974,8,8,,64,3
+Chincoteague,Virginia,Accomack County,-75.2401428222656,38.044833573016,4,4,,16,3
+Snow Hill,Maryland,Worcester County,-75.1974334716797,38.1031088501206,4,4,,16,3
+Berlin,Maryland,Worcester County,-75.1780700683594,38.1545336963451,4,4,,16,3
+Berlin,Maryland,Worcester County,-75.161865234375,38.1952334405083,4,4,,16,3
+West Ocean City,Maryland,Worcester County,-75.1416778564453,38.2352647265654,4,4,,16,3
+West Ocean City,Maryland,Worcester County,-75.1253356933594,38.2723630039636,4,4,,16,3
+West Ocean City,Maryland,Worcester County,-75.1073455810547,38.3053462984967,4,4,,16,3
+Atlantic City,New Jersey,Atlantic County,-74.4216613769531,39.3738977175294,8,8,,64,3
+Brigantine,New Jersey,Atlantic County,-74.3672790527344,39.4191068338612,8,8,,64,3
+Brigantine,New Jersey,Atlantic County,-74.3200378417969,39.4798715758613,8,8,,64,3
+Beach Haven,New Jersey,Ocean County,-74.2700500488281,39.5339061332996,8,8,,64,3
+Highlands,New Jersey,Monmouth County,-74.0046615600586,40.4449530679635,4,4,,16,3
+North Middletown,New Jersey,Monmouth County,-74.1236572265625,40.4422424049428,8,8,,64,3
+Port Monmouth,New Jersey,Monmouth County,-74.0922775268555,40.4329927738933,8,8,,64,3
+Atlantic Highlands,New Jersey,Monmouth County,-74.0443496704102,40.4172595046492,4,4,,16,3
+Highlands,New Jersey,Monmouth County,-74.0004730224609,40.4037174941139,4,4,,16,3
+Coney Island,New York,Kings County,-73.9345550537109,40.5482425304006,4,4,,16,3
+Coney Island,New York,Kings County,-73.9103851318359,40.5555995086123,4,4,,16,3
+East New York,New York,Kings County,-73.8827133178711,40.5669195706084,4,4,,16,3
+Babylon,New York,Suffolk County,-73.2910308837891,40.6221870480479,4,4,,16,3
+West Bay Shore,New York,Suffolk County,-73.2245635986328,40.6300031620019,4,4,,16,3
+Bellport,New York,Suffolk County,-72.9255981445313,40.7141629770615,4,4,,16,3
+Great River,New York,Suffolk County,-73.1723785400391,40.6396949885491,4,4,,16,3
+Great River,New York,Suffolk County,-73.1269226074219,40.6513660135117,4,4,,16,3
+West Sayville,New York,Suffolk County,-73.0719909667969,40.6649093233582,4,4,,16,3
+Bayport,New York,Suffolk County,-73.0211791992187,40.6782408500714,4,4,,16,3
+Bellport,New York,Suffolk County,-72.9687194824219,40.6956315116602,4,4,,16,3
+Center Moriches,New York,Suffolk County,-72.7901916503906,40.7550580285826,4,4,,16,3
+Mastic Beach,New York,Suffolk County,-72.8699798583984,40.7312317462097,4,4,,16,3
+Mastic Beach,New York,Suffolk County,-72.8254852294922,40.7459036080772,4,4,,16,3
+Sandwich,Massachusetts,Barnstable County,-70.4786682128906,41.7598377531337,4,4,,16,3
+East Sandwich,Massachusetts,Barnstable County,-70.4352722167969,41.7428303950193,4,4,,16,3
+West Barnstable,Massachusetts,Barnstable County,-70.3808898925781,41.7357608738697,4,4,,16,3
+Barnstable,Massachusetts,Barnstable County,-70.3197784423828,41.7266393370038,4,4,,16,3
+Provincetown,Massachusetts,Barnstable County,-70.2130737304688,42.0438792358701,4,4,,16,3
+Provincetown,Massachusetts,Barnstable County,-70.1360321044922,42.0596883613477,4,4,,16,3
+Truro,Massachusetts,Barnstable County,-70.0815124511719,42.0388843678487,4,4,,16,3
+Truro,Massachusetts,Barnstable County,-70.0366058349609,42.0057268738606,4,4,,16,3
+Wellfleet,Massachusetts,Barnstable County,-70.002685546875,41.9700045632338,4,4,,16,3
+Wellfleet,Massachusetts,Barnstable County,-69.9837684631348,41.9386785719885,4,4,,16,3
+North Eastham,Massachusetts,Barnstable County,-69.9731941223145,41.9158690890986,4,4,,16,3
+North Eastham,Massachusetts,Barnstable County,-69.9651260375977,41.8972424302753,4,4,,16,3
+North Eastham,Massachusetts,Barnstable County,-69.9588432312012,41.8788400918482,4,4,,16,3
+Eastham,Massachusetts,Barnstable County,-69.9529037475586,41.8614809766794,4,4,,16,3
+Eastham,Massachusetts,Barnstable County,-69.9474105834961,41.8469561464247,4,4,,16,3
+Ipswich,Massachusetts,Essex County,-70.7898559570313,42.7121069560644,4,4,,16,3
+Newburyport,Massachusetts,Essex County,-70.8121719360352,42.7828018963334,4,4,,16,3
+Rowley,Massachusetts,Essex County,-70.8061294555664,42.7598179067786,4,4,,16,3
+Ipswich,Massachusetts,Essex County,-70.7992630004883,42.7382872357623,4,4,,16,3
+Old Orchard Beach,Maine,York County,-70.3843574523926,43.4682193213721,4,4,,16,3
+Old Orchard Beach,Maine,York County,-70.3862457275391,43.4829186174086,4,4,,16,3
+Scarborough,Maine,Cumberland County,-70.3392105102539,43.5403109538037,4,4,,16,3
+Old Orchard Beach,Maine,York County,-70.3555526733399,43.5324459503933,4,4,,16,3
+Old Orchard Beach,Maine,York County,-70.3673629760742,43.5218665280592,4,4,,16,3
+Old Orchard Beach,Maine,York County,-70.3753280639648,43.5105134495901,4,4,,16,3
+Old Orchard Beach,Maine,York County,-70.3827781677246,43.500154537824,4,4,,16,3
+Old Orchard Beach,Maine,York County,-70.386589050293,43.4935548253374,12,12,,144,3
+Lake Station,Indiana,Lake County,-87.2520446777344,41.6152203848511,4,4,,16,4
+Porter,Indiana,Porter County,-87.0828552246094,41.6601770090253,4,4,,16,4
+Michigan City,Indiana,LaPorte County,-86.9573364257812,41.6983374114392,4,4,,16,4
+Long Beach,Indiana,LaPorte County,-86.8406066894531,41.7569600474624,4,4,,16,4
+Frankfort,Michigan,Benzie County,-86.2108154296875,44.7018409001593,4,4,,16,4
+Beulah,Michigan,Benzie County,-86.1170196533203,44.7260426610275,4,4,,16,4
+Beulah,Michigan,Benzie County,-86.0744476318359,44.7934248464043,4,4,,16,4
+Beulah,Michigan,Benzie County,-86.0657958984375,44.8686055087996,4,4,,16,4
+Leland,Michigan,Leelanau County,-86.0071563720703,44.9070503428849,4,4,,16,4
+Leland,Michigan,Leelanau County,-85.9478302001953,44.9476885157519,4,4,,16,4
+Imperial Beach,California,San Diego County,-117.134033203125,32.5725053147909,4,4,San Diego,16,1
+Imperial Beach,California,San Diego County,-117.142547607422,32.6116147892831,4,4,San Diego,16,1
+Coronado,California,San Diego County,-117.158477783203,32.6463102751393,4,4,San Diego,16,1
+Coronado,California,San Diego County,-117.202972412109,32.6791457835884,4,4,San Diego,16,1
+Coronado,California,San Diego County,-117.255432128906,32.6856133902609,4,4,San Diego,16,1
+Coronado,California,San Diego County,-117.262847900391,32.7433859460064,4,4,San Diego,16,1
+La Jolla,California,San Diego County,-117.275207519531,32.8011230444006,4,4,San Diego,16,1
+La Jolla,California,San Diego County,-117.2724609375,32.85351476899,4,4,San Diego,16,1
+La Jolla,California,San Diego County,-117.260375976563,32.8922661695313,4,4,San Diego,16,1
+Del Mar,California,San Diego County,-117.271087646484,32.943915926484,4,4,San Diego,16,1

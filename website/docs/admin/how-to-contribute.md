@@ -57,7 +57,11 @@ A new blog post is now available at `http://localhost:3000/blog/greetings`.
 * To edit blog pages, go to the subfolders of `blogs/`
 * Start here for instructions on how to use docusaurus: https://docusaurus.io/docs/installation
 
-To check the webpage locally, use
+To check the webpage locally, change directory to the `website` folder, then
+
+```shell
+yarn add docusaurus
+```
 
 ```shell
 yarn start

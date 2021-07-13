@@ -1,10 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Pacific Coast
 
-There are seven sites and 54 sub-sites:
+There are eight sites and 64 sub-sites:
 
 ![](../../static/img/west/overview.png)
 
@@ -127,3 +127,10 @@ See, for example, [this report](https://pubs.usgs.gov/of/2009/1029/)
 
 ### Example 9
 ![](../../static/img/gifs/west/chunk1_site40_ts.gif) -->
+
+## 8. San Diego
+### Example 1: -117.271087646484	32.943915926484
+![](../../static/img/gifs/west/san_diego/chunk14_site9_ts.gif)
+
+### Example 2: -117.271087646484	32.943915926484
+![](../../static/img/gifs/west/san_diego/chunk16_site9_ts.gif)

@@ -2,30 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dbuscombe-usgs.github.io/blog</id>
     <title>CoastTrain 2021 Blog</title>
-    <updated>2019-05-30T00:00:00.000Z</updated>
+    <updated>2021-07-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dbuscombe-usgs.github.io/blog"/>
     <subtitle>CoastTrain 2021 Blog</subtitle>
     <icon>https://dbuscombe-usgs.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>welcome</id>
-        <link href="https://dbuscombe-usgs.github.io/CoastTrain/blog/welcome"/>
-        <updated>2019-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></summary>
+        <title type="html"><![CDATA[How to Change Doodle's Shape]]></title>
+        <id>How to Change Doodle's Shape</id>
+        <link href="https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/07/09/Doodler-Shape"/>
+        <updated>2021-07-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to change doodles shapes in doodler]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello]]></title>
-        <id>hello-world</id>
-        <link href="https://dbuscombe-usgs.github.io/CoastTrain/blog/hello-world"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></summary>
+        <title type="html"><![CDATA[How to Use the Erase Tool]]></title>
+        <id>How to Use the Erase Tool</id>
+        <link href="https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/07/08/Doodler-Erase"/>
+        <updated>2021-07-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tutorial: How to use the erase tool in doodler.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hola]]></title>
-        <id>hola</id>
-        <link href="https://dbuscombe-usgs.github.io/CoastTrain/blog/hola"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
+        <title type="html"><![CDATA[How to Use Zoom & Pan Tools]]></title>
+        <id>How to Use Zoom &amp; Pan Tools</id>
+        <link href="https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/07/08/Doodler-Zoom"/>
+        <updated>2021-07-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to use the zoom and pan tools in doodler]]></summary>
     </entry>
 </feed>

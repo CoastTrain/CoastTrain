@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[29],{101:function(o){o.exports=JSON.parse('{"allTagsPath":"/CoastTrain/blog/tags","slug":"zoom-out","name":"zoom out","count":1,"permalink":"/CoastTrain/blog/tags/zoom-out"}')}}]);

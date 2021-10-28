@@ -4,9 +4,23 @@
         <title>CoastTrain 2021 Blog</title>
         <link>https://dbuscombe-usgs.github.io/blog</link>
         <description>CoastTrain 2021 Blog</description>
-        <lastBuildDate>Fri, 09 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How to Download GDAL with Anaconda]]></title>
+            <link>https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/08/19/Download-GDAL</link>
+            <guid>How to Download GDAL with Anaconda</guid>
+            <pubDate>Thu, 19 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to download GDAL with Anaconda]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How to Retile an Image with GDAL]]></title>
+            <link>https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/08/19/Retile-with-GDAL</link>
+            <guid>How to Retile an Image with GDAL</guid>
+            <pubDate>Thu, 19 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to Retile an Image with GDAL]]></description>
+        </item>
         <item>
             <title><![CDATA[How to Change Doodle's Shape]]></title>
             <link>https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/07/09/Doodler-Shape</link>

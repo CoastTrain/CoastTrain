@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[48],{119:function(a){a.exports=JSON.parse('{"allTagsPath":"/CoastTrain/blog/tags","slug":"anaconda","name":"anaconda","count":2,"permalink":"/CoastTrain/blog/tags/anaconda"}')}}]);

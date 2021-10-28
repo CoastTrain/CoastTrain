@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dbuscombe-usgs.github.io/blog</id>
     <title>CoastTrain 2021 Blog</title>
-    <updated>2021-07-09T00:00:00.000Z</updated>
+    <updated>2021-08-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dbuscombe-usgs.github.io/blog"/>
     <subtitle>CoastTrain 2021 Blog</subtitle>
     <icon>https://dbuscombe-usgs.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How to Download GDAL with Anaconda]]></title>
+        <id>How to Download GDAL with Anaconda</id>
+        <link href="https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/08/19/Download-GDAL"/>
+        <updated>2021-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to download GDAL with Anaconda]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Retile an Image with GDAL]]></title>
+        <id>How to Retile an Image with GDAL</id>
+        <link href="https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/08/19/Retile-with-GDAL"/>
+        <updated>2021-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to Retile an Image with GDAL]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Change Doodle's Shape]]></title>
         <id>How to Change Doodle's Shape</id>

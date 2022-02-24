@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[45],{116:function(o){o.exports=JSON.parse('{"allTagsPath":"/CoastTrain/blog/tags","slug":"doodler","name":"doodler","count":3,"permalink":"/CoastTrain/blog/tags/doodler"}')}}]);

@@ -20,7 +20,7 @@ const FeatureList = [
     Svg: require('../../static/img/zoo-logo.svg').default,
     description: (
       <>
-        We use the labels to train sophisticated Machine Learning models to mimic what a human could achieve. We have built a special program for this too, called "Zoo".
+        We use the labels to train sophisticated Machine Learning models to mimic what a human could achieve. We have built a special program for this too, called "Gym".
       </>
     ),
   },

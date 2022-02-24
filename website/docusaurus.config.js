@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'CoastTrain 2021',
-  tagline: 'Goal: label 10,000 images for coastal science',
+  title: 'CoastTrain',
+  tagline: 'Labeled images of coastal environments for training Machine Learning classification models.',
   url: 'https://dbuscombe-usgs.github.io',
   baseUrl: '/CoastTrain/',
   onBrokenLinks: 'throw',
@@ -25,8 +25,8 @@ module.exports = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/dbuscombe-usgs/CoastTrain',
-          label: 'Coast Train github page',
+          href: 'https://github.com/Doodleverse/',
+          label: 'Coast Train is made possible by the Doodleverse',
           position: 'right',
         },
       ],
@@ -51,8 +51,8 @@ module.exports = {
               href: 'https://dbuscombe-usgs.github.io/dash_doodler/',
             },
             {
-              label: 'USGS Remote Sensing Coastal Change',
-              href: 'https://www.usgs.gov/centers/pcmsc/science/remote-sensing-coastal-change?qt-science_center_objects=0#qt-science_center_objects',
+              label: 'The Doodleverse',
+              href: 'https://github.com/Doodleverse',
             },
             {
               label: 'Coastal Image Labeler by Dr Evan Goldstein',

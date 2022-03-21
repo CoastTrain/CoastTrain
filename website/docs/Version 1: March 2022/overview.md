@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Overview
 
+(If you want to go straight to the data download page, go [here](https://dbuscombe-usgs.github.io/CoastTrain/docs/Version%201:%20March%202022/data))
+
 While there are many potential types of imagery we could use, the Coast Train project has settled on the following types of imagery because they collectively represent a majority of use-cases and scales.
 
 Version 1 contains Geospatial Imagery only. These data consist of spatial and time-series, and contain 1.2 billion labelled pixels, representing over 3.6 million hectares. We use a Human-in-the-Loop tool especially designed for rapid and reproducible Earth surface image segmentation. 

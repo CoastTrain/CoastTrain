@@ -8,18 +8,18 @@
     <subtitle>CoastTrain Blog</subtitle>
     <icon>https://dbuscombe-usgs.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[How to Download GDAL with Anaconda]]></title>
-        <id>How to Download GDAL with Anaconda</id>
-        <link href="https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/08/19/Download-GDAL"/>
-        <updated>2021-08-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to download GDAL with Anaconda]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Retile an Image with GDAL]]></title>
         <id>How to Retile an Image with GDAL</id>
         <link href="https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/08/19/Retile-with-GDAL"/>
         <updated>2021-08-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[How to Retile an Image with GDAL]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Download GDAL with Anaconda]]></title>
+        <id>How to Download GDAL with Anaconda</id>
+        <link href="https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/08/19/Download-GDAL"/>
+        <updated>2021-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to download GDAL with Anaconda]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to Change Doodle's Shape]]></title>
@@ -29,17 +29,17 @@
         <summary type="html"><![CDATA[How to change doodles shapes in doodler]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Zoom & Pan Tools]]></title>
-        <id>How to Use Zoom &amp; Pan Tools</id>
-        <link href="https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/07/08/Doodler-Zoom"/>
-        <updated>2021-07-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to use the zoom and pan tools in doodler]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Use the Erase Tool]]></title>
         <id>How to Use the Erase Tool</id>
         <link href="https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/07/08/Doodler-Erase"/>
         <updated>2021-07-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Tutorial: How to use the erase tool in doodler.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Zoom & Pan Tools]]></title>
+        <id>How to Use Zoom &amp; Pan Tools</id>
+        <link href="https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/07/08/Doodler-Zoom"/>
+        <updated>2021-07-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to use the zoom and pan tools in doodler]]></summary>
     </entry>
 </feed>

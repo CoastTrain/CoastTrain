@@ -8,18 +8,18 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[How to Download GDAL with Anaconda]]></title>
-            <link>https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/08/19/Download-GDAL</link>
-            <guid>How to Download GDAL with Anaconda</guid>
-            <pubDate>Thu, 19 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to download GDAL with Anaconda]]></description>
-        </item>
-        <item>
             <title><![CDATA[How to Retile an Image with GDAL]]></title>
             <link>https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/08/19/Retile-with-GDAL</link>
             <guid>How to Retile an Image with GDAL</guid>
             <pubDate>Thu, 19 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[How to Retile an Image with GDAL]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How to Download GDAL with Anaconda]]></title>
+            <link>https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/08/19/Download-GDAL</link>
+            <guid>How to Download GDAL with Anaconda</guid>
+            <pubDate>Thu, 19 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to download GDAL with Anaconda]]></description>
         </item>
         <item>
             <title><![CDATA[How to Change Doodle's Shape]]></title>
@@ -29,18 +29,18 @@
             <description><![CDATA[How to change doodles shapes in doodler]]></description>
         </item>
         <item>
-            <title><![CDATA[How to Use Zoom & Pan Tools]]></title>
-            <link>https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/07/08/Doodler-Zoom</link>
-            <guid>How to Use Zoom &amp; Pan Tools</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[How to use the zoom and pan tools in doodler]]></description>
-        </item>
-        <item>
             <title><![CDATA[How to Use the Erase Tool]]></title>
             <link>https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/07/08/Doodler-Erase</link>
             <guid>How to Use the Erase Tool</guid>
             <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Tutorial: How to use the erase tool in doodler.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How to Use Zoom & Pan Tools]]></title>
+            <link>https://dbuscombe-usgs.github.io/CoastTrain/blog/2021/07/08/Doodler-Zoom</link>
+            <guid>How to Use Zoom &amp; Pan Tools</guid>
+            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to use the zoom and pan tools in doodler]]></description>
         </item>
     </channel>
 </rss>
